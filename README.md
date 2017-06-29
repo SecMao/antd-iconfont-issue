@@ -2,7 +2,4 @@
 antd iconfont localization issue
 
 
-iconUrlTry branch follows the https://github.com/ant-design/antd-init/tree/master/examples/local-iconfont
-
-but still get the result as below
-
+noCssInDist shows the problem that there is no antd css files in dist directory after building.
